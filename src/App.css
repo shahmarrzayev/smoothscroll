@@ -1,0 +1,10 @@
+#canvas {
+  height: 70vh;
+  border: solid 1px;
+  position: fixed;
+  top: 0;
+}
+
+body {
+  height: 700vh;
+}
